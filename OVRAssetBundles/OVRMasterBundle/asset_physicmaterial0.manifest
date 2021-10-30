@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1062117251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d5006dce7e687e585c484fc7091f06e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4d58da2e394c3ac790f4c422276af4f
+HashAppended: 0
+ClassTypes:
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PhysicsMaterials/CubeMaterial.physicMaterial
+Dependencies: []
