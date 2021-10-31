@@ -3,7 +3,7 @@ CRC: 611125760
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 24a628129cc05fde9e39ccefa1a7a123
+    Hash: a532004519810120ab64365a45032b2e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 599db246a67b3dcd774f148e6c5e8309
@@ -44,4 +44,4 @@ Assets:
 - Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab
 - Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
 Dependencies:
-- D:/BCIGameJam/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/pauld/Documents/GitHub/RoboticsSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat0

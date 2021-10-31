@@ -1,0 +1,33 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.26f1 (6f076387c01d) revision 7276387'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 17134.48; Version 1803; 64bit' Language: 'en' Physical Memory: 8112 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/pauld/Documents/GitHub/RoboticsSimulation
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+63648
+Successfully changed project path to: C:/Users/pauld/Documents/GitHub/RoboticsSimulation
+C:/Users/pauld/Documents/GitHub/RoboticsSimulation
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1091.78 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 5.56 ms.
+Initialize engine version: 2021.1.26f1 (6f076387c01d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/pauld/Documents/GitHub/RoboticsSimulation/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 6100 (ID=0x162b)
+    Vendor:   Intel
+    VRAM:     4056 MB
+    Driver:   20.19.15.4703

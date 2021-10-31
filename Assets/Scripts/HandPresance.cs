@@ -16,6 +16,7 @@ public class HandPresance : MonoBehaviour
         {
             Debug.Log(item.name + item.characteristics);
         }
+
     }
 
     // Update is called once per frame
